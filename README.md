@@ -59,7 +59,7 @@ Design and create a portfolio management system which aims to :
 
 ## Team Members
 1. Ritik Singh [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/singhritik0390/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/singhritik0390)
-2. 2. Shikhar jaiswal [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/shikhar1020jais) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+2. Shikhar jaiswal [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/shikhar1020jais) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 
 
 ### Would Like to Contribute?
